@@ -2174,78 +2174,6 @@
     <Category>Одежда, обувь, аксессуары</Category>
     
     
-    <GoodsType>Мужская обувь</GoodsType>
-    
-    
-    <Title>Кроссовки BALENCIAGA</Title>
-    
-    
-    <Description>Balenciaga
-
-Размер: 40, 41, 42
-Цвет: Разноцветный
-
-✨ Состояние: новое, с бирками
-💎 Премиальная сборка, ручная работа, материалы высшего качества.
-
-Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
-
-🚚 Отправка Авито Доставкой по всей России.
-💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
-🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
-    
-    
-    <Price>60</Price>
-    
-    
-    <Currency>RUB</Currency>
-    
-    
-    <Condition>Новое с биркой</Condition>
-    
-    
-    <AdType>Товар приобретен на продажу</AdType>
-    
-    
-    <Address>Москва</Address>
-    
-    
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    
-    
-    <ApparelType>Кроссовки</ApparelType>
-    
-    
-    <Brand>Balenciaga</Brand>
-    
-    
-    <Color>Разноцветный</Color>
-    
-    
-    <ColorFromMaker>Разноцветный</ColorFromMaker>
-    
-    
-    <Size>40</Size>
-    
-    
-    <Images>
-      <Image url="https://files.catbox.moe/lszg80.jpg"/>
-    </Images>
-  </Ad>
-  
-  
-  <Ad>
-    
-    
-    <Id>32</Id>
-    
-    
-    <AllowEmail>false</AllowEmail>
-    
-    
-    <Category>Одежда, обувь, аксессуары</Category>
-    
-    
     <GoodsType>Женская обувь</GoodsType>
     
     
@@ -2312,7 +2240,7 @@
   <Ad>
     
     
-    <Id>33</Id>
+    <Id>32</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -2387,7 +2315,7 @@
   <Ad>
     
     
-    <Id>34</Id>
+    <Id>33</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -2462,7 +2390,7 @@
   <Ad>
     
     
-    <Id>35</Id>
+    <Id>34</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -2537,79 +2465,7 @@
   <Ad>
     
     
-    <Id>36</Id>
-    
-    
-    <AllowEmail>false</AllowEmail>
-    
-    
-    <Category>Одежда, обувь, аксессуары</Category>
-    
-    
-    <GoodsType>Женская обувь</GoodsType>
-    
-    
-    <Title>Женские угги UGG</Title>
-    
-    
-    <Description>UGG
-
-Размер: 36, 37
-Цвет: Бежевый
-
-✨ Состояние: новое, с бирками
-💎 Премиальная сборка, ручная работа, материалы высшего качества.
-
-Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
-
-🚚 Отправка Авито Доставкой по всей России.
-💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
-🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
-    
-    
-    <Price>54</Price>
-    
-    
-    <Currency>RUB</Currency>
-    
-    
-    <Condition>Новое с биркой</Condition>
-    
-    
-    <AdType>Товар приобретен на продажу</AdType>
-    
-    
-    <Address>Москва</Address>
-    
-    
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    
-    
-    <ApparelType>Угги, валенки, дутики</ApparelType>
-    
-    
-    <Brand>UGG</Brand>
-    
-    
-    <Color>Бежевый</Color>
-    
-    
-    <ColorFromMaker>Бежевый</ColorFromMaker>
-    
-    
-    <Size>36</Size>
-    
-    
-    <Images>
-      <Image url="https://files.catbox.moe/6wn11y.jpg"/>
-    </Images>
-  </Ad>
-  
-  
-  <Ad>
-    
-    
-    <Id>37</Id>
+    <Id>35</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -2681,7 +2537,7 @@
   <Ad>
     
     
-    <Id>38</Id>
+    <Id>36</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -2753,7 +2609,7 @@
   <Ad>
     
     
-    <Id>39</Id>
+    <Id>37</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -2825,7 +2681,7 @@
   <Ad>
     
     
-    <Id>40</Id>
+    <Id>38</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -2897,7 +2753,7 @@
   <Ad>
     
     
-    <Id>41</Id>
+    <Id>39</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -2969,7 +2825,7 @@
   <Ad>
     
     
-    <Id>42</Id>
+    <Id>40</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -3044,7 +2900,7 @@
   <Ad>
     
     
-    <Id>43</Id>
+    <Id>41</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -3119,7 +2975,7 @@
   <Ad>
     
     
-    <Id>44</Id>
+    <Id>42</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -3191,7 +3047,7 @@
   <Ad>
     
     
-    <Id>45</Id>
+    <Id>43</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -3266,7 +3122,7 @@
   <Ad>
     
     
-    <Id>46</Id>
+    <Id>44</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -3338,7 +3194,7 @@
   <Ad>
     
     
-    <Id>47</Id>
+    <Id>45</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -3413,7 +3269,7 @@
   <Ad>
     
     
-    <Id>48</Id>
+    <Id>46</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -3485,7 +3341,7 @@
   <Ad>
     
     
-    <Id>49</Id>
+    <Id>47</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -3557,7 +3413,7 @@
   <Ad>
     
     
-    <Id>50</Id>
+    <Id>48</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -3629,7 +3485,7 @@
   <Ad>
     
     
-    <Id>51</Id>
+    <Id>49</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -3701,7 +3557,7 @@
   <Ad>
     
     
-    <Id>52</Id>
+    <Id>50</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -3773,7 +3629,7 @@
   <Ad>
     
     
-    <Id>53</Id>
+    <Id>51</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -3845,7 +3701,7 @@
   <Ad>
     
     
-    <Id>54</Id>
+    <Id>52</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -3917,7 +3773,7 @@
   <Ad>
     
     
-    <Id>55</Id>
+    <Id>53</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -3989,7 +3845,7 @@
   <Ad>
     
     
-    <Id>56</Id>
+    <Id>54</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -4061,7 +3917,7 @@
   <Ad>
     
     
-    <Id>57</Id>
+    <Id>55</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -4133,7 +3989,7 @@
   <Ad>
     
     
-    <Id>58</Id>
+    <Id>56</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -4205,7 +4061,7 @@
   <Ad>
     
     
-    <Id>59</Id>
+    <Id>57</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -4277,7 +4133,7 @@
   <Ad>
     
     
-    <Id>60</Id>
+    <Id>58</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -4349,7 +4205,7 @@
   <Ad>
     
     
-    <Id>61</Id>
+    <Id>59</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -4421,7 +4277,7 @@
   <Ad>
     
     
-    <Id>62</Id>
+    <Id>60</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -4493,7 +4349,7 @@
   <Ad>
     
     
-    <Id>63</Id>
+    <Id>61</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -4565,7 +4421,7 @@
   <Ad>
     
     
-    <Id>64</Id>
+    <Id>62</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -4637,7 +4493,7 @@
   <Ad>
     
     
-    <Id>65</Id>
+    <Id>63</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -4709,7 +4565,7 @@
   <Ad>
     
     
-    <Id>66</Id>
+    <Id>64</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -4784,7 +4640,7 @@
   <Ad>
     
     
-    <Id>67</Id>
+    <Id>65</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -4856,7 +4712,7 @@
   <Ad>
     
     
-    <Id>68</Id>
+    <Id>66</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -4928,7 +4784,7 @@
   <Ad>
     
     
-    <Id>69</Id>
+    <Id>67</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -5000,7 +4856,7 @@
   <Ad>
     
     
-    <Id>70</Id>
+    <Id>68</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -5072,7 +4928,7 @@
   <Ad>
     
     
-    <Id>71</Id>
+    <Id>69</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -5144,7 +5000,7 @@
   <Ad>
     
     
-    <Id>72</Id>
+    <Id>70</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -5216,7 +5072,7 @@
   <Ad>
     
     
-    <Id>73</Id>
+    <Id>71</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -5288,7 +5144,7 @@
   <Ad>
     
     
-    <Id>74</Id>
+    <Id>72</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -5360,7 +5216,7 @@
   <Ad>
     
     
-    <Id>75</Id>
+    <Id>73</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -5432,7 +5288,7 @@
   <Ad>
     
     
-    <Id>76</Id>
+    <Id>74</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -5504,7 +5360,7 @@
   <Ad>
     
     
-    <Id>77</Id>
+    <Id>75</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -5576,7 +5432,7 @@
   <Ad>
     
     
-    <Id>78</Id>
+    <Id>76</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -5641,6 +5497,150 @@
     
     <Images>
       <Image url="https://files.catbox.moe/te1rat.jpg"/>
+    </Images>
+  </Ad>
+  
+  
+  <Ad>
+    
+    
+    <Id>77</Id>
+    
+    
+    <AllowEmail>false</AllowEmail>
+    
+    
+    <Category>Одежда, обувь, аксессуары</Category>
+    
+    
+    <GoodsType>Женская обувь</GoodsType>
+    
+    
+    <Title>Женские кроссовки кеды мюли MIU MIU</Title>
+    
+    
+    <Description>Miu Miu
+
+Размер: 36-41
+Цвет: Белый
+
+✨ Состояние: новое, с бирками
+💎 Премиальная сборка, ручная работа, материалы высшего качества.
+
+Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
+
+🚚 Отправка Авито Доставкой по всей России.
+💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
+🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
+    
+    
+    <Price>20250</Price>
+    
+    
+    <Currency>RUB</Currency>
+    
+    
+    <Condition>Новое с биркой</Condition>
+    
+    
+    <AdType>Товар приобретен на продажу</AdType>
+    
+    
+    <Address>Москва</Address>
+    
+    
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    
+    
+    <ApparelType>Кроссовки и кеды</ApparelType>
+    
+    
+    <Brand>Miu Miu</Brand>
+    
+    
+    <Color>Белый</Color>
+    
+    
+    <ColorFromMaker>Белый</ColorFromMaker>
+    
+    
+    <Size>36</Size>
+    
+    
+    <Images>
+      <Image url="https://files.catbox.moe/rh7wdb.jpg"/>
+    </Images>
+  </Ad>
+  
+  
+  <Ad>
+    
+    
+    <Id>78</Id>
+    
+    
+    <AllowEmail>false</AllowEmail>
+    
+    
+    <Category>Одежда, обувь, аксессуары</Category>
+    
+    
+    <GoodsType>Женская обувь</GoodsType>
+    
+    
+    <Title>Женские кроссовки кеды MIU MIU</Title>
+    
+    
+    <Description>Miu Miu
+
+Размер: 36-41
+Цвет: Бежевый
+
+✨ Состояние: новое, с бирками
+💎 Премиальная сборка, ручная работа, материалы высшего качества.
+
+Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
+
+🚚 Отправка Авито Доставкой по всей России.
+💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
+🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
+    
+    
+    <Price>20250</Price>
+    
+    
+    <Currency>RUB</Currency>
+    
+    
+    <Condition>Новое с биркой</Condition>
+    
+    
+    <AdType>Товар приобретен на продажу</AdType>
+    
+    
+    <Address>Москва</Address>
+    
+    
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    
+    
+    <ApparelType>Кроссовки и кеды</ApparelType>
+    
+    
+    <Brand>Miu Miu</Brand>
+    
+    
+    <Color>Бежевый</Color>
+    
+    
+    <ColorFromMaker>Бежевый</ColorFromMaker>
+    
+    
+    <Size>36</Size>
+    
+    
+    <Images>
+      <Image url="https://files.catbox.moe/bzwm0b.jpg"/>
     </Images>
   </Ad>
   
@@ -5732,150 +5732,6 @@
     <GoodsType>Женская обувь</GoodsType>
     
     
-    <Title>Женские кроссовки кеды MIU MIU</Title>
-    
-    
-    <Description>Miu Miu
-
-Размер: 36-41
-Цвет: Бежевый
-
-✨ Состояние: новое, с бирками
-💎 Премиальная сборка, ручная работа, материалы высшего качества.
-
-Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
-
-🚚 Отправка Авито Доставкой по всей России.
-💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
-🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
-    
-    
-    <Price>20250</Price>
-    
-    
-    <Currency>RUB</Currency>
-    
-    
-    <Condition>Новое с биркой</Condition>
-    
-    
-    <AdType>Товар приобретен на продажу</AdType>
-    
-    
-    <Address>Москва</Address>
-    
-    
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    
-    
-    <ApparelType>Кроссовки и кеды</ApparelType>
-    
-    
-    <Brand>Miu Miu</Brand>
-    
-    
-    <Color>Бежевый</Color>
-    
-    
-    <ColorFromMaker>Бежевый</ColorFromMaker>
-    
-    
-    <Size>36</Size>
-    
-    
-    <Images>
-      <Image url="https://files.catbox.moe/bzwm0b.jpg"/>
-    </Images>
-  </Ad>
-  
-  
-  <Ad>
-    
-    
-    <Id>81</Id>
-    
-    
-    <AllowEmail>false</AllowEmail>
-    
-    
-    <Category>Одежда, обувь, аксессуары</Category>
-    
-    
-    <GoodsType>Женская обувь</GoodsType>
-    
-    
-    <Title>Женские кроссовки кеды мюли MIU MIU</Title>
-    
-    
-    <Description>Miu Miu
-
-Размер: 36-41
-Цвет: Белый
-
-✨ Состояние: новое, с бирками
-💎 Премиальная сборка, ручная работа, материалы высшего качества.
-
-Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
-
-🚚 Отправка Авито Доставкой по всей России.
-💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
-🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
-    
-    
-    <Price>20250</Price>
-    
-    
-    <Currency>RUB</Currency>
-    
-    
-    <Condition>Новое с биркой</Condition>
-    
-    
-    <AdType>Товар приобретен на продажу</AdType>
-    
-    
-    <Address>Москва</Address>
-    
-    
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    
-    
-    <ApparelType>Кроссовки и кеды</ApparelType>
-    
-    
-    <Brand>Miu Miu</Brand>
-    
-    
-    <Color>Белый</Color>
-    
-    
-    <ColorFromMaker>Белый</ColorFromMaker>
-    
-    
-    <Size>36</Size>
-    
-    
-    <Images>
-      <Image url="https://files.catbox.moe/rh7wdb.jpg"/>
-    </Images>
-  </Ad>
-  
-  
-  <Ad>
-    
-    
-    <Id>82</Id>
-    
-    
-    <AllowEmail>false</AllowEmail>
-    
-    
-    <Category>Одежда, обувь, аксессуары</Category>
-    
-    
-    <GoodsType>Женская обувь</GoodsType>
-    
-    
     <Title>Женские мюли NEW BALANCE х MIU MIU 530</Title>
     
     
@@ -5936,7 +5792,7 @@
   <Ad>
     
     
-    <Id>83</Id>
+    <Id>81</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -6008,7 +5864,7 @@
   <Ad>
     
     
-    <Id>84</Id>
+    <Id>82</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -6080,7 +5936,7 @@
   <Ad>
     
     
-    <Id>85</Id>
+    <Id>83</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -6152,7 +6008,7 @@
   <Ad>
     
     
-    <Id>86</Id>
+    <Id>84</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -6224,7 +6080,7 @@
   <Ad>
     
     
-    <Id>87</Id>
+    <Id>85</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -6296,7 +6152,7 @@
   <Ad>
     
     
-    <Id>88</Id>
+    <Id>86</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -6368,7 +6224,7 @@
   <Ad>
     
     
-    <Id>89</Id>
+    <Id>87</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -6443,79 +6299,7 @@
   <Ad>
     
     
-    <Id>90</Id>
-    
-    
-    <AllowEmail>false</AllowEmail>
-    
-    
-    <Category>Одежда, обувь, аксессуары</Category>
-    
-    
-    <GoodsType>Женская обувь</GoodsType>
-    
-    
-    <Title>Лоферы MIU MIU</Title>
-    
-    
-    <Description>Miu Miu
-
-Размер: 36, 37, 38, 40, 41
-Цвет: Чёрный
-
-✨ Состояние: новое, с бирками
-💎 Премиальная сборка, ручная работа, материалы высшего качества.
-
-Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
-
-🚚 Отправка Авито Доставкой по всей России.
-💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
-🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
-    
-    
-    <Price>54</Price>
-    
-    
-    <Currency>RUB</Currency>
-    
-    
-    <Condition>Новое с биркой</Condition>
-    
-    
-    <AdType>Товар приобретен на продажу</AdType>
-    
-    
-    <Address>Москва</Address>
-    
-    
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    
-    
-    <ApparelType>Мокасины и лоферы</ApparelType>
-    
-    
-    <Brand>Miu Miu</Brand>
-    
-    
-    <Color>Чёрный</Color>
-    
-    
-    <ColorFromMaker>Чёрный</ColorFromMaker>
-    
-    
-    <Size>36</Size>
-    
-    
-    <Images>
-      <Image url="https://files.catbox.moe/etjkdj.jpg"/>
-    </Images>
-  </Ad>
-  
-  
-  <Ad>
-    
-    
-    <Id>91</Id>
+    <Id>88</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -6587,7 +6371,7 @@
   <Ad>
     
     
-    <Id>92</Id>
+    <Id>89</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -6662,7 +6446,7 @@
   <Ad>
     
     
-    <Id>93</Id>
+    <Id>90</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -6734,7 +6518,7 @@
   <Ad>
     
     
-    <Id>94</Id>
+    <Id>91</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -6806,7 +6590,7 @@
   <Ad>
     
     
-    <Id>95</Id>
+    <Id>92</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -6878,7 +6662,7 @@
   <Ad>
     
     
-    <Id>96</Id>
+    <Id>93</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -6950,7 +6734,7 @@
   <Ad>
     
     
-    <Id>97</Id>
+    <Id>94</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -7022,79 +6806,7 @@
   <Ad>
     
     
-    <Id>98</Id>
-    
-    
-    <AllowEmail>false</AllowEmail>
-    
-    
-    <Category>Одежда, обувь, аксессуары</Category>
-    
-    
-    <GoodsType>Женская обувь</GoodsType>
-    
-    
-    <Title>Разгружаем склад под новинки! Туфли MIU MIU</Title>
-    
-    
-    <Description>Miu Miu
-
-Размер: 36, 38, 39, 40, 41, 42
-Цвет: Бежевый
-
-✨ Состояние: новое, с бирками
-💎 Премиальная сборка, ручная работа, материалы высшего качества.
-
-Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
-
-🚚 Отправка Авито Доставкой по всей России.
-💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
-🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
-    
-    
-    <Price>54</Price>
-    
-    
-    <Currency>RUB</Currency>
-    
-    
-    <Condition>Новое с биркой</Condition>
-    
-    
-    <AdType>Товар приобретен на продажу</AdType>
-    
-    
-    <Address>Москва</Address>
-    
-    
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    
-    
-    <ApparelType>Туфли</ApparelType>
-    
-    
-    <Brand>Miu Miu</Brand>
-    
-    
-    <Color>Бежевый</Color>
-    
-    
-    <ColorFromMaker>Бежевый</ColorFromMaker>
-    
-    
-    <Size>36</Size>
-    
-    
-    <Images>
-      <Image url="https://files.catbox.moe/gcvz3p.jpg"/>
-    </Images>
-  </Ad>
-  
-  
-  <Ad>
-    
-    
-    <Id>99</Id>
+    <Id>95</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -7166,79 +6878,7 @@
   <Ad>
     
     
-    <Id>100</Id>
-    
-    
-    <AllowEmail>false</AllowEmail>
-    
-    
-    <Category>Одежда, обувь, аксессуары</Category>
-    
-    
-    <GoodsType>Женская обувь</GoodsType>
-    
-    
-    <Title>Туфли MIU MIU</Title>
-    
-    
-    <Description>Miu Miu
-
-Размер: 36, 37, 38, 40, 41, 42
-Цвет: Бордовый
-
-✨ Состояние: новое, с бирками
-💎 Премиальная сборка, ручная работа, материалы высшего качества.
-
-Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
-
-🚚 Отправка Авито Доставкой по всей России.
-💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
-🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
-    
-    
-    <Price>54</Price>
-    
-    
-    <Currency>RUB</Currency>
-    
-    
-    <Condition>Новое с биркой</Condition>
-    
-    
-    <AdType>Товар приобретен на продажу</AdType>
-    
-    
-    <Address>Москва</Address>
-    
-    
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    
-    
-    <ApparelType>Мокасины и лоферы</ApparelType>
-    
-    
-    <Brand>Miu Miu</Brand>
-    
-    
-    <Color>Бордовый</Color>
-    
-    
-    <ColorFromMaker>Бордовый</ColorFromMaker>
-    
-    
-    <Size>36</Size>
-    
-    
-    <Images>
-      <Image url="https://files.catbox.moe/pd8v16.jpg"/>
-    </Images>
-  </Ad>
-  
-  
-  <Ad>
-    
-    
-    <Id>101</Id>
+    <Id>96</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -7313,7 +6953,7 @@
   <Ad>
     
     
-    <Id>102</Id>
+    <Id>97</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -7385,7 +7025,7 @@
   <Ad>
     
     
-    <Id>103</Id>
+    <Id>98</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -7457,7 +7097,7 @@
   <Ad>
     
     
-    <Id>104</Id>
+    <Id>99</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -7529,7 +7169,7 @@
   <Ad>
     
     
-    <Id>105</Id>
+    <Id>100</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -7601,7 +7241,7 @@
   <Ad>
     
     
-    <Id>106</Id>
+    <Id>101</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -7673,7 +7313,7 @@
   <Ad>
     
     
-    <Id>107</Id>
+    <Id>102</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -7745,7 +7385,7 @@
   <Ad>
     
     
-    <Id>108</Id>
+    <Id>103</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -7817,7 +7457,7 @@
   <Ad>
     
     
-    <Id>109</Id>
+    <Id>104</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -7889,7 +7529,7 @@
   <Ad>
     
     
-    <Id>110</Id>
+    <Id>105</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -7961,7 +7601,7 @@
   <Ad>
     
     
-    <Id>111</Id>
+    <Id>106</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -8036,7 +7676,7 @@
   <Ad>
     
     
-    <Id>112</Id>
+    <Id>107</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -8111,7 +7751,7 @@
   <Ad>
     
     
-    <Id>113</Id>
+    <Id>108</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -8186,7 +7826,7 @@
   <Ad>
     
     
-    <Id>114</Id>
+    <Id>109</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -8258,7 +7898,7 @@
   <Ad>
     
     
-    <Id>115</Id>
+    <Id>110</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -8330,7 +7970,7 @@
   <Ad>
     
     
-    <Id>116</Id>
+    <Id>111</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -8402,7 +8042,7 @@
   <Ad>
     
     
-    <Id>117</Id>
+    <Id>112</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -8474,7 +8114,7 @@
   <Ad>
     
     
-    <Id>118</Id>
+    <Id>113</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -8546,7 +8186,7 @@
   <Ad>
     
     
-    <Id>119</Id>
+    <Id>114</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -8618,7 +8258,7 @@
   <Ad>
     
     
-    <Id>120</Id>
+    <Id>115</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -8690,7 +8330,7 @@
   <Ad>
     
     
-    <Id>121</Id>
+    <Id>116</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -8762,7 +8402,7 @@
   <Ad>
     
     
-    <Id>122</Id>
+    <Id>117</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -8834,7 +8474,7 @@
   <Ad>
     
     
-    <Id>123</Id>
+    <Id>118</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -8906,79 +8546,7 @@
   <Ad>
     
     
-    <Id>124</Id>
-    
-    
-    <AllowEmail>false</AllowEmail>
-    
-    
-    <Category>Одежда, обувь, аксессуары</Category>
-    
-    
-    <GoodsType>Женская обувь</GoodsType>
-    
-    
-    <Title>Женские кроссовки LOUIS VUITTON Run Away Neo</Title>
-    
-    
-    <Description>Louis Vuitton
-
-Размер: 37, 39, 40, 41
-Цвет: Белый
-
-✨ Состояние: новое, с бирками
-💎 Премиальная сборка, ручная работа, материалы высшего качества.
-
-Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
-
-🚚 Отправка Авито Доставкой по всей России.
-💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
-🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
-    
-    
-    <Price>55</Price>
-    
-    
-    <Currency>RUB</Currency>
-    
-    
-    <Condition>Новое с биркой</Condition>
-    
-    
-    <AdType>Товар приобретен на продажу</AdType>
-    
-    
-    <Address>Москва</Address>
-    
-    
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    
-    
-    <ApparelType>Кроссовки и кеды</ApparelType>
-    
-    
-    <Brand>Louis Vuitton</Brand>
-    
-    
-    <Color>Белый</Color>
-    
-    
-    <ColorFromMaker>Белый</ColorFromMaker>
-    
-    
-    <Size>37</Size>
-    
-    
-    <Images>
-      <Image url="https://files.catbox.moe/f27oyq.jpg"/>
-    </Images>
-  </Ad>
-  
-  
-  <Ad>
-    
-    
-    <Id>125</Id>
+    <Id>119</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -9050,7 +8618,7 @@
   <Ad>
     
     
-    <Id>126</Id>
+    <Id>120</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -9122,7 +8690,7 @@
   <Ad>
     
     
-    <Id>127</Id>
+    <Id>121</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -9194,7 +8762,7 @@
   <Ad>
     
     
-    <Id>128</Id>
+    <Id>122</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -9266,7 +8834,7 @@
   <Ad>
     
     
-    <Id>129</Id>
+    <Id>123</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -9338,7 +8906,7 @@
   <Ad>
     
     
-    <Id>130</Id>
+    <Id>124</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -9410,7 +8978,7 @@
   <Ad>
     
     
-    <Id>131</Id>
+    <Id>125</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -9482,7 +9050,7 @@
   <Ad>
     
     
-    <Id>132</Id>
+    <Id>126</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -9554,7 +9122,7 @@
   <Ad>
     
     
-    <Id>133</Id>
+    <Id>127</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -9626,7 +9194,7 @@
   <Ad>
     
     
-    <Id>134</Id>
+    <Id>128</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -9698,7 +9266,7 @@
   <Ad>
     
     
-    <Id>135</Id>
+    <Id>129</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -9770,7 +9338,7 @@
   <Ad>
     
     
-    <Id>136</Id>
+    <Id>130</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -9842,7 +9410,7 @@
   <Ad>
     
     
-    <Id>137</Id>
+    <Id>131</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -9914,7 +9482,7 @@
   <Ad>
     
     
-    <Id>138</Id>
+    <Id>132</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -9986,7 +9554,7 @@
   <Ad>
     
     
-    <Id>139</Id>
+    <Id>133</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -10058,7 +9626,7 @@
   <Ad>
     
     
-    <Id>140</Id>
+    <Id>134</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -10130,7 +9698,7 @@
   <Ad>
     
     
-    <Id>141</Id>
+    <Id>135</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -10202,7 +9770,7 @@
   <Ad>
     
     
-    <Id>142</Id>
+    <Id>136</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -10274,7 +9842,7 @@
   <Ad>
     
     
-    <Id>143</Id>
+    <Id>137</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -10343,7 +9911,7 @@
   <Ad>
     
     
-    <Id>144</Id>
+    <Id>138</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -10415,7 +9983,7 @@
   <Ad>
     
     
-    <Id>145</Id>
+    <Id>139</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -10487,7 +10055,7 @@
   <Ad>
     
     
-    <Id>146</Id>
+    <Id>140</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -10559,217 +10127,7 @@
   <Ad>
     
     
-    <Id>147</Id>
-    
-    
-    <AllowEmail>false</AllowEmail>
-    
-    
-    <Category>Одежда, обувь, аксессуары</Category>
-    
-    
-    <GoodsType>Женская обувь</GoodsType>
-    
-    
-    <Title>**LORO PIAN</Title>
-    
-    
-    <Description>
-
-Размер: уточняйте
-Цвет: Чёрный
-
-✨ Состояние: новое, с бирками
-💎 Премиальная сборка, ручная работа, материалы высшего качества.
-
-Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
-
-🚚 Отправка Авито Доставкой по всей России.
-💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
-🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
-    
-    
-    <Price>0</Price>
-    
-    
-    <Currency>RUB</Currency>
-    
-    
-    <Condition>Новое с биркой</Condition>
-    
-    
-    <AdType>Товар приобретен на продажу</AdType>
-    
-    
-    <Address>Москва</Address>
-    
-    
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    
-    
-    <ApparelType>Туфли</ApparelType>
-    
-    
-    <Color>Чёрный</Color>
-    
-    
-    <ColorFromMaker>Чёрный</ColorFromMaker>
-    
-    
-    <Images>
-      <Image url="https://files.catbox.moe/tw1chn.jpg"/>
-    </Images>
-  </Ad>
-  
-  
-  <Ad>
-    
-    
-    <Id>148</Id>
-    
-    
-    <AllowEmail>false</AllowEmail>
-    
-    
-    <Category>Одежда, обувь, аксессуары</Category>
-    
-    
-    <GoodsType>Женская обувь</GoodsType>
-    
-    
-    <Title>Женские ботинки сапоги LORO PIANA Regent с кашемир</Title>
-    
-    
-    <Description>Loro Piana
-
-Размер: 36, 38, 39, 40, 41, 42
-Цвет: Бежевый
-
-✨ Состояние: новое, с бирками
-💎 Премиальная сборка, ручная работа, материалы высшего качества.
-
-Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
-
-🚚 Отправка Авито Доставкой по всей России.
-💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
-🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
-    
-    
-    <Price>54</Price>
-    
-    
-    <Currency>RUB</Currency>
-    
-    
-    <Condition>Новое с биркой</Condition>
-    
-    
-    <AdType>Товар приобретен на продажу</AdType>
-    
-    
-    <Address>Москва</Address>
-    
-    
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    
-    
-    <ApparelType>Сапоги</ApparelType>
-    
-    
-    <Brand>Loro Piana</Brand>
-    
-    
-    <Color>Бежевый</Color>
-    
-    
-    <ColorFromMaker>Бежевый</ColorFromMaker>
-    
-    
-    <Size>36</Size>
-    
-    
-    <Images>
-      <Image url="https://files.catbox.moe/zrd6xt.jpg"/>
-    </Images>
-  </Ad>
-  
-  
-  <Ad>
-    
-    
-    <Id>149</Id>
-    
-    
-    <AllowEmail>false</AllowEmail>
-    
-    
-    <Category>Одежда, обувь, аксессуары</Category>
-    
-    
-    <GoodsType>Женская обувь</GoodsType>
-    
-    
-    <Title>Лоферы MIU MIU</Title>
-    
-    
-    <Description>Miu Miu
-
-Размер: 36, 37, 38, 40, 41
-Цвет: Чёрный
-
-✨ Состояние: новое, с бирками
-💎 Премиальная сборка, ручная работа, материалы высшего качества.
-
-Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
-
-🚚 Отправка Авито Доставкой по всей России.
-💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
-🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
-    
-    
-    <Price>54</Price>
-    
-    
-    <Currency>RUB</Currency>
-    
-    
-    <Condition>Новое с биркой</Condition>
-    
-    
-    <AdType>Товар приобретен на продажу</AdType>
-    
-    
-    <Address>Москва</Address>
-    
-    
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    
-    
-    <ApparelType>Мокасины и лоферы</ApparelType>
-    
-    
-    <Brand>Miu Miu</Brand>
-    
-    
-    <Color>Чёрный</Color>
-    
-    
-    <ColorFromMaker>Чёрный</ColorFromMaker>
-    
-    
-    <Size>36</Size>
-    
-    
-    <Images>
-      <Image url="https://files.catbox.moe/efm2om.jpg"/>
-    </Images>
-  </Ad>
-  
-  
-  <Ad>
-    
-    
-    <Id>150</Id>
+    <Id>141</Id>
     
     
     <AllowEmail>false</AllowEmail>
@@ -10834,6 +10192,654 @@
     
     <Images>
       <Image url="https://files.catbox.moe/oqdu9f.jpg"/>
+    </Images>
+  </Ad>
+  
+  
+  <Ad>
+    
+    
+    <Id>142</Id>
+    
+    
+    <AllowEmail>false</AllowEmail>
+    
+    
+    <Category>Одежда, обувь, аксессуары</Category>
+    
+    
+    <GoodsType>Женская обувь</GoodsType>
+    
+    
+    <Title>LORO PIANA OPEN WALK</Title>
+    
+    
+    <Description>Loro Piana
+
+Размер: 36, 40, 41
+Цвет: Синий
+
+✨ Состояние: новое, с бирками
+💎 Премиальная сборка, ручная работа, материалы высшего качества.
+
+Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
+
+🚚 Отправка Авито Доставкой по всей России.
+💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
+🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
+    
+    
+    <Price>13500</Price>
+    
+    
+    <Currency>RUB</Currency>
+    
+    
+    <Condition>Новое с биркой</Condition>
+    
+    
+    <AdType>Товар приобретен на продажу</AdType>
+    
+    
+    <Address>Москва</Address>
+    
+    
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    
+    
+    <ApparelType>Ботинки и полуботинки</ApparelType>
+    
+    
+    <Brand>Loro Piana</Brand>
+    
+    
+    <Color>Синий</Color>
+    
+    
+    <ColorFromMaker>Синий</ColorFromMaker>
+    
+    
+    <Size>36</Size>
+    
+    
+    <Images>
+      <Image url="https://files.catbox.moe/r4f9ib.jpg"/>
+    </Images>
+  </Ad>
+  
+  
+  <Ad>
+    
+    
+    <Id>143</Id>
+    
+    
+    <AllowEmail>false</AllowEmail>
+    
+    
+    <Category>Одежда, обувь, аксессуары</Category>
+    
+    
+    <GoodsType>Женская обувь</GoodsType>
+    
+    
+    <Title>LORO PIANA OPEN WALK</Title>
+    
+    
+    <Description>Loro Piana
+
+Размер: 37
+Цвет: Коричневый
+
+✨ Состояние: новое, с бирками
+💎 Премиальная сборка, ручная работа, материалы высшего качества.
+
+Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
+
+🚚 Отправка Авито Доставкой по всей России.
+💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
+🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
+    
+    
+    <Price>13500</Price>
+    
+    
+    <Currency>RUB</Currency>
+    
+    
+    <Condition>Новое с биркой</Condition>
+    
+    
+    <AdType>Товар приобретен на продажу</AdType>
+    
+    
+    <Address>Москва</Address>
+    
+    
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    
+    
+    <ApparelType>Ботинки и полуботинки</ApparelType>
+    
+    
+    <Brand>Loro Piana</Brand>
+    
+    
+    <Color>Коричневый</Color>
+    
+    
+    <ColorFromMaker>Коричневый</ColorFromMaker>
+    
+    
+    <Size>37</Size>
+    
+    
+    <Images>
+      <Image url="https://files.catbox.moe/4tzxuh.jpg"/>
+    </Images>
+  </Ad>
+  
+  
+  <Ad>
+    
+    
+    <Id>144</Id>
+    
+    
+    <AllowEmail>false</AllowEmail>
+    
+    
+    <Category>Одежда, обувь, аксессуары</Category>
+    
+    
+    <GoodsType>Женская обувь</GoodsType>
+    
+    
+    <Title>Женские Лоферы Loro Piana Open Walk с мехом</Title>
+    
+    
+    <Description>Loro Piana
+
+Размер: 36-42
+Цвет: Бежевый
+
+✨ Состояние: новое, с бирками
+💎 Премиальная сборка, ручная работа, материалы высшего качества.
+
+Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
+
+🚚 Отправка Авито Доставкой по всей России.
+💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
+🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
+    
+    
+    <Price>24750</Price>
+    
+    
+    <Currency>RUB</Currency>
+    
+    
+    <Condition>Новое с биркой</Condition>
+    
+    
+    <AdType>Товар приобретен на продажу</AdType>
+    
+    
+    <Address>Москва</Address>
+    
+    
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    
+    
+    <ApparelType>Мокасины и лоферы</ApparelType>
+    
+    
+    <Brand>Loro Piana</Brand>
+    
+    
+    <Color>Бежевый</Color>
+    
+    
+    <ColorFromMaker>Бежевый</ColorFromMaker>
+    
+    
+    <Size>36</Size>
+    
+    
+    <Images>
+      <Image url="https://files.catbox.moe/w3yr3y.jpg"/>
+    </Images>
+  </Ad>
+  
+  
+  <Ad>
+    
+    
+    <Id>145</Id>
+    
+    
+    <AllowEmail>false</AllowEmail>
+    
+    
+    <Category>Одежда, обувь, аксессуары</Category>
+    
+    
+    <GoodsType>Женская обувь</GoodsType>
+    
+    
+    <Title>Женские ботинки сапоги LORO PIANA Regent с мехом</Title>
+    
+    
+    <Description>Loro Piana
+
+Размер: 36, 37, 41, 42
+Цвет: Белый
+
+✨ Состояние: новое, с бирками
+💎 Премиальная сборка, ручная работа, материалы высшего качества.
+
+Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
+
+🚚 Отправка Авито Доставкой по всей России.
+💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
+🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
+    
+    
+    <Price>23850</Price>
+    
+    
+    <Currency>RUB</Currency>
+    
+    
+    <Condition>Новое с биркой</Condition>
+    
+    
+    <AdType>Товар приобретен на продажу</AdType>
+    
+    
+    <Address>Москва</Address>
+    
+    
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    
+    
+    <ApparelType>Сапоги</ApparelType>
+    
+    
+    <Brand>Loro Piana</Brand>
+    
+    
+    <Color>Белый</Color>
+    
+    
+    <ColorFromMaker>Белый</ColorFromMaker>
+    
+    
+    <Size>36</Size>
+    
+    
+    <Images>
+      <Image url="https://files.catbox.moe/4hsvzx.jpg"/>
+    </Images>
+  </Ad>
+  
+  
+  <Ad>
+    
+    
+    <Id>146</Id>
+    
+    
+    <AllowEmail>false</AllowEmail>
+    
+    
+    <Category>Одежда, обувь, аксессуары</Category>
+    
+    
+    <GoodsType>Женская обувь</GoodsType>
+    
+    
+    <Title>LORO PIANA OPEN WALK</Title>
+    
+    
+    <Description>Loro Piana
+
+Размер: 37
+Цвет: Бежевый
+
+✨ Состояние: новое, с бирками
+💎 Премиальная сборка, ручная работа, материалы высшего качества.
+
+Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
+
+🚚 Отправка Авито Доставкой по всей России.
+💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
+🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
+    
+    
+    <Price>13500</Price>
+    
+    
+    <Currency>RUB</Currency>
+    
+    
+    <Condition>Новое с биркой</Condition>
+    
+    
+    <AdType>Товар приобретен на продажу</AdType>
+    
+    
+    <Address>Москва</Address>
+    
+    
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    
+    
+    <ApparelType>Ботинки и полуботинки</ApparelType>
+    
+    
+    <Brand>Loro Piana</Brand>
+    
+    
+    <Color>Бежевый</Color>
+    
+    
+    <ColorFromMaker>Бежевый</ColorFromMaker>
+    
+    
+    <Size>37</Size>
+    
+    
+    <Images>
+      <Image url="https://files.catbox.moe/sl7cia.jpg"/>
+    </Images>
+  </Ad>
+  
+  
+  <Ad>
+    
+    
+    <Id>147</Id>
+    
+    
+    <AllowEmail>false</AllowEmail>
+    
+    
+    <Category>Одежда, обувь, аксессуары</Category>
+    
+    
+    <GoodsType>Женская обувь</GoodsType>
+    
+    
+    <Title>Женские лоферы Loro Piana Open Walk</Title>
+    
+    
+    <Description>Loro Piana
+
+Размер: 36-42
+Цвет: Бежевый
+
+✨ Состояние: новое, с бирками
+💎 Премиальная сборка, ручная работа, материалы высшего качества.
+
+Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
+
+🚚 Отправка Авито Доставкой по всей России.
+💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
+🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
+    
+    
+    <Price>22500</Price>
+    
+    
+    <Currency>RUB</Currency>
+    
+    
+    <Condition>Новое с биркой</Condition>
+    
+    
+    <AdType>Товар приобретен на продажу</AdType>
+    
+    
+    <Address>Москва</Address>
+    
+    
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    
+    
+    <ApparelType>Мокасины и лоферы</ApparelType>
+    
+    
+    <Brand>Loro Piana</Brand>
+    
+    
+    <Color>Бежевый</Color>
+    
+    
+    <ColorFromMaker>Бежевый</ColorFromMaker>
+    
+    
+    <Size>36</Size>
+    
+    
+    <Images>
+      <Image url="https://files.catbox.moe/mw4xqv.jpg"/>
+    </Images>
+  </Ad>
+  
+  
+  <Ad>
+    
+    
+    <Id>148</Id>
+    
+    
+    <AllowEmail>false</AllowEmail>
+    
+    
+    <Category>Одежда, обувь, аксессуары</Category>
+    
+    
+    <GoodsType>Женская обувь</GoodsType>
+    
+    
+    <Title>Женские лоферы LORO PIANA Open Walk</Title>
+    
+    
+    <Description>Loro Piana
+
+Размер: 36-42
+Цвет: Бежевый
+
+✨ Состояние: новое, с бирками
+💎 Премиальная сборка, ручная работа, материалы высшего качества.
+
+Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
+
+🚚 Отправка Авито Доставкой по всей России.
+💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
+🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
+    
+    
+    <Price>22500</Price>
+    
+    
+    <Currency>RUB</Currency>
+    
+    
+    <Condition>Новое с биркой</Condition>
+    
+    
+    <AdType>Товар приобретен на продажу</AdType>
+    
+    
+    <Address>Москва</Address>
+    
+    
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    
+    
+    <ApparelType>Мокасины и лоферы</ApparelType>
+    
+    
+    <Brand>Loro Piana</Brand>
+    
+    
+    <Color>Бежевый</Color>
+    
+    
+    <ColorFromMaker>Бежевый</ColorFromMaker>
+    
+    
+    <Size>36</Size>
+    
+    
+    <Images>
+      <Image url="https://files.catbox.moe/dkvv17.jpg"/>
+    </Images>
+  </Ad>
+  
+  
+  <Ad>
+    
+    
+    <Id>149</Id>
+    
+    
+    <AllowEmail>false</AllowEmail>
+    
+    
+    <Category>Одежда, обувь, аксессуары</Category>
+    
+    
+    <GoodsType>Женская обувь</GoodsType>
+    
+    
+    <Title>Женские Лоферы LORO PIANA Charms Walk</Title>
+    
+    
+    <Description>Loro Piana
+
+Размер: 36-42
+Цвет: Голубой
+
+✨ Состояние: новое, с бирками
+💎 Премиальная сборка, ручная работа, материалы высшего качества.
+
+Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
+
+🚚 Отправка Авито Доставкой по всей России.
+💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
+🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
+    
+    
+    <Price>19500</Price>
+    
+    
+    <Currency>RUB</Currency>
+    
+    
+    <Condition>Новое с биркой</Condition>
+    
+    
+    <AdType>Товар приобретен на продажу</AdType>
+    
+    
+    <Address>Москва</Address>
+    
+    
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    
+    
+    <ApparelType>Мокасины и лоферы</ApparelType>
+    
+    
+    <Brand>Loro Piana</Brand>
+    
+    
+    <Color>Голубой</Color>
+    
+    
+    <ColorFromMaker>Голубой</ColorFromMaker>
+    
+    
+    <Size>36</Size>
+    
+    
+    <Images>
+      <Image url="https://files.catbox.moe/p6x9ge.jpg"/>
+    </Images>
+  </Ad>
+  
+  
+  <Ad>
+    
+    
+    <Id>150</Id>
+    
+    
+    <AllowEmail>false</AllowEmail>
+    
+    
+    <Category>Одежда, обувь, аксессуары</Category>
+    
+    
+    <GoodsType>Женская обувь</GoodsType>
+    
+    
+    <Title>Женские Лоферы LORO PIANA Charms Walk</Title>
+    
+    
+    <Description>Loro Piana
+
+Размер: 36-42
+Цвет: Розовый
+
+✨ Состояние: новое, с бирками
+💎 Премиальная сборка, ручная работа, материалы высшего качества.
+
+Идеальный выбор для тех, кто ценит сдержанную элегантность и безупречное качество исполнения.
+
+🚚 Отправка Авито Доставкой по всей России.
+💬 Все вопросы, дополнительные фото и замеры в чат Авито. Отвечаю быстро.
+🛍 В моём профиле другие позиции премиум-сегмента. Заглядывайте 👇</Description>
+    
+    
+    <Price>19500</Price>
+    
+    
+    <Currency>RUB</Currency>
+    
+    
+    <Condition>Новое с биркой</Condition>
+    
+    
+    <AdType>Товар приобретен на продажу</AdType>
+    
+    
+    <Address>Москва</Address>
+    
+    
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    
+    
+    <ApparelType>Мокасины и лоферы</ApparelType>
+    
+    
+    <Brand>Loro Piana</Brand>
+    
+    
+    <Color>Розовый</Color>
+    
+    
+    <ColorFromMaker>Розовый</ColorFromMaker>
+    
+    
+    <Size>36</Size>
+    
+    
+    <Images>
+      <Image url="https://files.catbox.moe/okaj0m.jpg"/>
     </Images>
   </Ad>
   
